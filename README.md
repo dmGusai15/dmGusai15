@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmGusai15
+- 👋 Hi,
 - 👀 I’m interested in RnD work on web development side
 - 🌱 I’m currently learning React, RPA
 - 📫 Connect with me : 
