@@ -2,8 +2,8 @@
 - 👀 I’m interested in RnD work on web development side
 - 🌱 I’m currently learning React, RPA
 - 📫 Connect with me : 
-- E-Mail : dharamgusai15@gmail.com
-- LinkedIn : dharamgusai15
+    E-Mail : dharamgusai15@gmail.com
+    LinkedIn : dharamgusai15
 
 <!---
 - 💞️ I’m looking to collaborate on ...
