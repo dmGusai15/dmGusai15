@@ -2,7 +2,7 @@
 - 👀 Interested in RnD work on web development side.
 - 🌱 Currently learning React, RPA
 - 📫 Hire me as Full Stack Developer :
-    E-Mail : dharamgusai15@gmail.com
+    <br>E-Mail : dharamgusai15@gmail.com
     <br>LinkedIn : dharamgusai15
 
 <!---
