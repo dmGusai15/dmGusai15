@@ -3,7 +3,7 @@
 - 🌱 Currently learning React, RPA
 - 📫 Hire me as Full Stack Developer :
     E-Mail : dharamgusai15@gmail.com
-    LinkedIn : dharamgusai15
+    <br>LinkedIn : dharamgusai15
 
 <!---
 - 💞️ I’m looking to collaborate on ...
