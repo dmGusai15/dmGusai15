@@ -1,8 +1,7 @@
 - 👋 Hi, 
-- 📫 Hire me as Full Stack Developer. 
 - 👀 Interested in RnD work on web development side.
 - 🌱 Currently learning React, RPA
-- 📫 Connect with me : 
+- 📫 Hire me as Full Stack Developer :
     E-Mail : dharamgusai15@gmail.com
     LinkedIn : dharamgusai15
 
